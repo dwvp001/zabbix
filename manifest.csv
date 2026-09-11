@@ -1,2 +1,2 @@
 name,url
-pingcheckbool,https://raw.githubusercontent.com/dwvp001/zabbix/refs/heads/main/pingcheckbool.conf
+pingcheckbool.conf,https://raw.githubusercontent.com/dwvp001/zabbix/refs/heads/main/pingcheckbool.conf
